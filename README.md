@@ -6,8 +6,8 @@ The Healthcare Predictive Analytics project focuses on developing a predictive m
 healthcare-related outcomes, focusing on improving patient care and resource management.
 
 ## 👥 Team Members 
-Ibrahim Epead works on **Cardio vascular**  
+Ibrahim Epead works on **Cardiovascular**  
 Mazen Ahmed works on **Alzahimar**  
-Youssef Wagdy works on ****  
+Youssef Wagdy works on **Insulin Resistant**  
 Basel Mohamed works on **Diabetes**  
 Abdelrahman Ali works on **Chronic Kidney Disease**
